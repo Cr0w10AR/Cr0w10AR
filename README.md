@@ -1,19 +1,16 @@
 <div align="center">
 
-# 🛡️ Cr0w 🛡️
-
-### Blue Team · Security Operations Center · Digital Forensics & Incident Response
+![Cr0w10AR — Blue Team, SOC &amp; DFIR](assets/security-operations-banner.svg)
 
 **Defend. Detect. Investigate. Automate.**
 
-[![Blue Team](https://img.shields.io/badge/Focus-Blue%20Team-0B7285?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/Cr0w10AR)
-[![SOC](https://img.shields.io/badge/Path-SOC%20Analysis-173B59?style=for-the-badge)](https://github.com/Cr0w10AR)
-[![DFIR](https://img.shields.io/badge/Focus-DFIR-165D50?style=for-the-badge)](https://github.com/Cr0w10AR)
+[![Blue Team](https://img.shields.io/badge/Focus-Blue%20Team-0B7285?style=flat-square)](https://github.com/Cr0w10AR)
+[![SOC](https://img.shields.io/badge/Focus-SOC%20Analysis-173B59?style=flat-square)](https://github.com/Cr0w10AR)
+[![DFIR](https://img.shields.io/badge/Focus-DFIR-165D50?style=flat-square)](https://github.com/Cr0w10AR)
 
 [Projects](#-featured-projects) · [Technical Focus](#-technical-focus) · [Core Competencies](#-core-competencies) · [Portfolio](https://github.com/Cr0w10AR/cr0w10ar.github.io)
 
 </div>
-
 ---
 
 ## 👨‍💻 About Me
