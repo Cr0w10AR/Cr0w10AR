@@ -10,7 +10,7 @@
 [![SOC](https://img.shields.io/badge/Path-SOC%20Analysis-173B59?style=for-the-badge)](https://github.com/Cr0w10AR)
 [![DFIR](https://img.shields.io/badge/Focus-DFIR-165D50?style=for-the-badge)](https://github.com/Cr0w10AR)
 
-[Projects](#-featured-projects) · [Technical Focus](#-technical-focus) · [Learning Roadmap](#-learning-roadmap) · [Portfolio](https://github.com/Cr0w10AR/cr0w10ar.github.io)
+[Projects](#-featured-projects) · [Technical Focus](#-technical-focus) · [Core Competencies](#-core-competencies) · [Portfolio](https://github.com/Cr0w10AR/cr0w10ar.github.io)
 
 </div>
 
@@ -18,26 +18,26 @@
 
 ## 👨‍💻 About Me
 
-Soy **Cr0w10AR**, apasionado por la ciberseguridad defensiva y el aprendizaje práctico. Mi objetivo es desarrollar habilidades en **operaciones SOC, análisis de incidentes y forense digital (DFIR)**, apoyándome en laboratorios técnicos, documentación reproducible y automatización con Python.
+I'm **Cr0w10AR**, focused on **defensive cybersecurity, security operations, digital forensics, and security automation**. I investigate technical challenges, build Python tools to process evidence, and document methods and findings so they can be reproduced and reviewed.
 
-Uso este GitHub como **portafolio de aprendizaje y proyectos**: documento problemas, explico decisiones técnicas, comparto herramientas y registro lecciones aprendidas.
+This GitHub is my **technical security portfolio**: practical investigations, automation projects, hands-on labs, and the reasoning behind each solution.
 
-- 🔎 **Exploro:** análisis de artefactos, investigación de incidentes y detección de actividad sospechosa.
-- 🐍 **Construyo:** scripts para procesar evidencia y automatizar tareas repetitivas.
-- 🐧 **Practico:** fundamentos de Linux y resolución de laboratorios de seguridad.
-- 🎯 **Desarrollo mi perfil hacia:** SOC Analyst / Junior DFIR.
+- 🔎 **Investigate:** digital artifacts, suspicious activity, and incident scenarios.
+- 🐍 **Automate:** evidence processing, decoding, and repeatable analysis with Python.
+- 🐧 **Analyze:** Linux environments and security challenges from the command line.
+- 📝 **Document:** methodologies, investigation pitfalls, findings, and lessons learned.
 
 > **Mindset:** Evidence first. Document the process. Automate with purpose.
 
 ## 🔍 Technical Focus
 
-| Área | Qué estoy desarrollando |
+| Domain | Approach |
 | --- | --- |
-| 🛡️ **Blue Team / SOC** | Triage de alertas, análisis de eventos y fundamentos de detección. |
-| 🧪 **DFIR** | Extracción, interpretación y documentación de artefactos digitales. |
-| 🐍 **Security Automation** | Python, expresiones regulares y procesamiento de datos. |
-| 🐧 **Linux** | Terminal, permisos, archivos y resolución de desafíos prácticos. |
-| 📚 **Technical Writing** | Writeups, metodología, errores encontrados y lecciones aprendidas. |
+| 🛡️ **Blue Team & SOC** | Alert investigation methodology, event analysis, and detection-oriented thinking. |
+| 🧪 **Digital Forensics & IR** | Artifact extraction, analysis, evidence integrity, and technical reporting. |
+| 🐍 **Security Automation** | Python, regular expressions, structured processing, and repeatable workflows. |
+| 🐧 **Linux** | Command-line workflows, files, permissions, and hands-on security exercises. |
+| 📚 **Technical Documentation** | Clear writeups, reproducible methodology, error analysis, and lessons learned. |
 
 ### Tools & Technologies
 
@@ -49,77 +49,74 @@ Uso este GitHub como **portafolio de aprendizaje y proyectos**: documento proble
 ![Pillow](https://img.shields.io/badge/Pillow-Image%20Processing-286A76?style=flat-square)
 ![pyzbar](https://img.shields.io/badge/pyzbar-Barcode%20Decoding-495C75?style=flat-square)
 
-*Estas herramientas están asociadas a trabajos documentados y al flujo de desarrollo; no representan certificaciones ni dominio experto de cada tecnología.*
-
 ## 🚀 Featured Projects
 
 ### 01 · [Barcode World — BTLO](https://github.com/Cr0w10AR/Barcode-World-BTLO)
 
 **Digital forensics · Python automation · Artifact processing**
 
-Herramienta desarrollada para resolver un laboratorio de **Blue Team Labs Online** mediante extracción en lote y decodificación de códigos de barras.
+A Python-based forensic automation tool developed for a **Blue Team Labs Online** challenge. The workflow extracts, decodes, and reconstructs information from a large collection of barcode images.
 
-- Procesamiento de **9.374 imágenes** numeradas, según la documentación del proyecto.
-- Ordenamiento numérico y filtrado de archivos mediante **Regex**.
-- Lectura de códigos con **pyzbar**, con segundo intento tras binarización mediante **Pillow**.
-- Conversión de valores decimales a **ASCII** para interpretar la información recuperada.
-- Documentación de un error de manipulación de evidencia y su impacto en la reconstrucción de datos.
+- Processes **9,374 numbered images**, as described in the project documentation.
+- Applies **regular expressions** for strict filename filtering and numeric ordering.
+- Uses **pyzbar** for barcode decoding, with a **Pillow** binarization fallback.
+- Converts recovered decimal values to **ASCII** for data interpretation.
+- Documents a data-integrity pitfall that affected an initial reconstruction attempt.
 
-**Lo que demuestra:** pensamiento analítico, automatización de una investigación y atención a la integridad de los datos de origen.
+**What it demonstrates:** investigative reasoning, forensic workflow automation, and careful handling of source data.
 
-➡️ **[Explorar el repositorio y su análisis técnico](https://github.com/Cr0w10AR/Barcode-World-BTLO)**
+➡️ **[Explore the repository and technical analysis](https://github.com/Cr0w10AR/Barcode-World-BTLO)**
 
 ### 02 · [OverTheWire](https://github.com/Cr0w10AR/OverTheWire)
 
-**Linux · CLI · Hands-on security learning**
+**Linux · CLI · Hands-on security labs**
 
-Repositorio de práctica vinculado a desafíos de **OverTheWire** y aprendizaje del entorno Linux.
+A repository for hands-on Linux and security challenges using **OverTheWire**. It provides a foundation for documenting command-line workflows, problem-solving methods, and security concepts without disclosing active credentials or restricted challenge content.
 
-**Objetivo de documentación:** registrar conceptos, metodología y comandos relevantes, evitando compartir credenciales activas, secretos o contenido no permitido por el laboratorio.
-
-➡️ **[Ver repositorio](https://github.com/Cr0w10AR/OverTheWire)**
+➡️ **[Explore the repository](https://github.com/Cr0w10AR/OverTheWire)**
 
 ### 03 · [GitHub Pages — Portfolio](https://github.com/Cr0w10AR/cr0w10ar.github.io)
 
 **Web portfolio · Technical visibility**
 
-Repositorio de GitHub Pages para centralizar proyectos, writeups y material profesional.
+A GitHub Pages repository for presenting security projects, research notes, and technical work.
 
-➡️ **[Ver repositorio del portfolio](https://github.com/Cr0w10AR/cr0w10ar.github.io)**
+➡️ **[View the portfolio repository](https://github.com/Cr0w10AR/cr0w10ar.github.io)**
 
-## 🧭 Learning Roadmap
+## 🧭 Core Competencies
 
-Estas son **áreas de desarrollo**, no habilidades que afirmo dominar actualmente.
+My cybersecurity work is built around these areas:
 
-- [ ] **SOC Foundations:** ciclo de vida de alertas, severidad, triage y escalamiento.
-- [ ] **Log Analysis:** Windows Event Logs, Sysmon y logs de Linux.
-- [ ] **Detection Engineering:** reglas Sigma y mapeo a MITRE ATT&CK.
-- [ ] **Network Forensics:** análisis de PCAP con Wireshark y Zeek.
-- [ ] **Incident Response:** línea temporal, alcance, contención y reporte.
-- [ ] **Security Automation:** scripts de parsing, correlación y reportes.
+- **SOC & Security Operations:** security event investigation, alert triage concepts, prioritization, and escalation workflows.
+- **Digital Forensic Analysis:** artifact examination, extraction, data reconstruction, and evidence-conscious processing.
+- **Security Automation:** Python scripting, regex-based filtering, batch processing, decoding, and reproducible workflows.
+- **Linux & Command-Line Analysis:** system navigation, file operations, permissions, and hands-on security problem-solving.
+- **Technical Investigation & Reporting:** structured analysis, validation of findings, and clear documentation of investigative decisions.
+
+**Additional areas of interest:** detection engineering, Windows event telemetry, network forensics, and incident response.
 
 ## 📝 Documentation Philosophy
 
-Cada proyecto busca responder cinco preguntas:
+I structure each investigation around five questions:
 
-1. **Context:** ¿Qué problema o escenario se analiza?
-2. **Evidence:** ¿Qué datos o artefactos están disponibles?
-3. **Method:** ¿Qué herramientas y pasos se utilizaron?
-4. **Findings:** ¿Qué hallazgos pueden verificarse?
-5. **Lessons learned:** ¿Qué haría diferente la próxima vez?
+1. **Context:** What problem or scenario am I analyzing?
+2. **Evidence:** What data and artifacts are available?
+3. **Method:** Which tools and steps were used?
+4. **Findings:** What can be verified from the evidence?
+5. **Lessons learned:** What can be improved in the next iteration?
 
-> Todos los ejercicios deben realizarse en entornos propios o expresamente autorizados. No publico secretos, datos personales ni evidencia sensible.
+> All exercises are performed in owned or explicitly authorized environments. No secrets, personal information, or sensitive evidence are intentionally published.
 
 ## 📌 Connect & Explore
 
 - 👨‍💻 **GitHub:** [github.com/Cr0w10AR](https://github.com/Cr0w10AR)
-- 🌐 **Portfolio source:** [cr0w10ar.github.io](https://github.com/Cr0w10AR/cr0w10ar.github.io)
-- 📂 **BTLO research:** [Barcode-World-BTLO](https://github.com/Cr0w10AR/Barcode-World-BTLO)
+- 🌐 **Portfolio repository:** [cr0w10ar.github.io](https://github.com/Cr0w10AR/cr0w10ar.github.io)
+- 📂 **BTLO forensic automation:** [Barcode-World-BTLO](https://github.com/Cr0w10AR/Barcode-World-BTLO)
 
 <div align="center">
 
 ---
 
-**Detect with context · Investigate with evidence · Improve through practice**
+**Detect with context · Investigate with evidence · Automate with purpose**
 
 </div>
