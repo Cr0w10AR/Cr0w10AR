@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="465" viewBox="0 0 1200 465" role="img" aria-labelledby="title desc">
+<title id="title">Cr0w10AR Security Operations</title><desc id="desc">Defend. Detect. Investigate. Blue Team, Digital Forensics, Security Automation.</desc>
+<rect width="1200" height="465" rx="22" fill="#09121a"/>
+<rect x="1" y="1" width="1198" height="463" rx="21" fill="none" stroke="#26453f" stroke-width="2"/>
+<path d="M42 92H1158" stroke="#25483f"/>
+<path d="M54 38l14 -7 14 7v12c0 13-11 22-14 23-3-1-14-10-14-23z" fill="none" stroke="#45e2ac" stroke-width="3"/>
+<text x="98" y="58" font-size="22" font-family="Arial,sans-serif" fill="#43e6b1" letter-spacing="2">CR0W10AR // SECURITY OPERATIONS</text>
+<text x="1129" y="54" font-size="15" text-anchor="end" font-family="monospace" fill="#8ca59d">PROFILE</text>
+<text x="43" y="151" font-size="49" font-weight="bold" font-family="Arial,sans-serif" fill="#edf8f5">Defend. Detect. Investigate.</text>
+<text x="44" y="192" font-size="22" font-family="Arial,sans-serif" fill="#b4cbc3">Blue Team  ·  SOC Operations  ·  Digital Forensics  ·  Incident Response</text>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<rect x="42" y="225" width="357" height="135" rx="10" fill="#14282b"/><rect x="421" y="225" width="357" height="135" rx="10" fill="#14282b"/><rect x="800" y="225" width="358" height="135" rx="10" fill="#14282b"/>
+<g fill="none" stroke="#45e2ac" stroke-width="3" stroke-linejoin="round"><path d="M205 247l16 -8 16 8v13c0 13-13 23-16 24-3-1-16-11-16-24z"/><circle cx="600" cy="262" r="17"/><path d="M600 250v24m-12-12h24"/><rect x="962" y="242" width="35" height="31" rx="4"/><path d="M969 251l8 7-8 7m12 0h9"/></g>
+<text x="221" y="313" fill="#f1faf7" font-size="19" letter-spacing="2">DEFENSE</text><text x="600" y="313" fill="#f1faf7" font-size="19" letter-spacing="2">INVESTIGATE</text><text x="979" y="313" fill="#f1faf7" font-size="19" letter-spacing="2">AUTOMATE</text>
+<text x="221" y="339" fill="#9db8b0" font-size="17">Blue Team</text><text x="600" y="339" fill="#9db8b0" font-size="17">Digital Forensics</text><text x="979" y="339" fill="#9db8b0" font-size="17">Python</text>
+</g>
+<text x="44" y="401" font-size="20" font-family="monospace" fill="#44e5ac">root@cr0w10ar:~$ cat security-profile.md</text>
+<text x="44" y="432" font-size="17" font-family="Arial,sans-serif" fill="#91aaa3">Hands-on labs  /  Forensic automation  /  Technical investigations</text>
+</svg>
